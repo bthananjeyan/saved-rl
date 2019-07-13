@@ -1,0 +1,9 @@
+dotmap==1.2.20
+future==0.16.0
+gpflow==1.1.1
+gym==0.13.0
+mujoco-py== 1.50.1.68
+numpy==1.14.0
+scipy==0.19.0
+tensorflow-gpu>=1.9.0
+tqdm==4.19.4
