@@ -15,7 +15,7 @@
 
 ## Requirements
 
-The provided environments require MuJoCo 1.31. Other dependencies can be installed with `pip install -r requirements.txt`. We recommend installing everything in a Python 3.6 virtual environment.
+The provided environments require MuJoCo 1.50.1.68. Other dependencies can be installed with `pip install -r requirements.txt`. We recommend installing everything in a Python 3.6 virtual environment.
 
 ## Running Experiments
 
